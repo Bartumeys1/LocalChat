@@ -1,0 +1,16 @@
+C:\Users\macnaer\Desktop\NP-18\NP\Telnet\bin\Debug\net5.0\Telnet.exe
+C:\Users\macnaer\Desktop\NP-18\NP\Telnet\bin\Debug\net5.0\Telnet.deps.json
+C:\Users\macnaer\Desktop\NP-18\NP\Telnet\bin\Debug\net5.0\Telnet.runtimeconfig.json
+C:\Users\macnaer\Desktop\NP-18\NP\Telnet\bin\Debug\net5.0\Telnet.runtimeconfig.dev.json
+C:\Users\macnaer\Desktop\NP-18\NP\Telnet\bin\Debug\net5.0\Telnet.dll
+C:\Users\macnaer\Desktop\NP-18\NP\Telnet\bin\Debug\net5.0\ref\Telnet.dll
+C:\Users\macnaer\Desktop\NP-18\NP\Telnet\bin\Debug\net5.0\Telnet.pdb
+C:\Users\macnaer\Desktop\NP-18\NP\Telnet\obj\Debug\net5.0\Telnet.csproj.AssemblyReference.cache
+C:\Users\macnaer\Desktop\NP-18\NP\Telnet\obj\Debug\net5.0\Telnet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\macnaer\Desktop\NP-18\NP\Telnet\obj\Debug\net5.0\Telnet.AssemblyInfoInputs.cache
+C:\Users\macnaer\Desktop\NP-18\NP\Telnet\obj\Debug\net5.0\Telnet.AssemblyInfo.cs
+C:\Users\macnaer\Desktop\NP-18\NP\Telnet\obj\Debug\net5.0\Telnet.csproj.CoreCompileInputs.cache
+C:\Users\macnaer\Desktop\NP-18\NP\Telnet\obj\Debug\net5.0\Telnet.dll
+C:\Users\macnaer\Desktop\NP-18\NP\Telnet\obj\Debug\net5.0\ref\Telnet.dll
+C:\Users\macnaer\Desktop\NP-18\NP\Telnet\obj\Debug\net5.0\Telnet.pdb
+C:\Users\macnaer\Desktop\NP-18\NP\Telnet\obj\Debug\net5.0\Telnet.genruntimeconfig.cache

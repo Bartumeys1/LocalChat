@@ -1,0 +1,16 @@
+C:\Users\macnaer\Desktop\NP-18\NP\ClientTCP\bin\Debug\net5.0\ClientTCP.exe
+C:\Users\macnaer\Desktop\NP-18\NP\ClientTCP\bin\Debug\net5.0\ClientTCP.deps.json
+C:\Users\macnaer\Desktop\NP-18\NP\ClientTCP\bin\Debug\net5.0\ClientTCP.runtimeconfig.json
+C:\Users\macnaer\Desktop\NP-18\NP\ClientTCP\bin\Debug\net5.0\ClientTCP.runtimeconfig.dev.json
+C:\Users\macnaer\Desktop\NP-18\NP\ClientTCP\bin\Debug\net5.0\ClientTCP.dll
+C:\Users\macnaer\Desktop\NP-18\NP\ClientTCP\bin\Debug\net5.0\ref\ClientTCP.dll
+C:\Users\macnaer\Desktop\NP-18\NP\ClientTCP\bin\Debug\net5.0\ClientTCP.pdb
+C:\Users\macnaer\Desktop\NP-18\NP\ClientTCP\obj\Debug\net5.0\ClientTCP.csproj.AssemblyReference.cache
+C:\Users\macnaer\Desktop\NP-18\NP\ClientTCP\obj\Debug\net5.0\ClientTCP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\macnaer\Desktop\NP-18\NP\ClientTCP\obj\Debug\net5.0\ClientTCP.AssemblyInfoInputs.cache
+C:\Users\macnaer\Desktop\NP-18\NP\ClientTCP\obj\Debug\net5.0\ClientTCP.AssemblyInfo.cs
+C:\Users\macnaer\Desktop\NP-18\NP\ClientTCP\obj\Debug\net5.0\ClientTCP.csproj.CoreCompileInputs.cache
+C:\Users\macnaer\Desktop\NP-18\NP\ClientTCP\obj\Debug\net5.0\ClientTCP.dll
+C:\Users\macnaer\Desktop\NP-18\NP\ClientTCP\obj\Debug\net5.0\ref\ClientTCP.dll
+C:\Users\macnaer\Desktop\NP-18\NP\ClientTCP\obj\Debug\net5.0\ClientTCP.pdb
+C:\Users\macnaer\Desktop\NP-18\NP\ClientTCP\obj\Debug\net5.0\ClientTCP.genruntimeconfig.cache

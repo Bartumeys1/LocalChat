@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\Test\Telnet\bin\Debug\net5.0\SimpleServer.exe
+C:\Users\User\Desktop\Test\Telnet\bin\Debug\net5.0\SimpleServer.deps.json
+C:\Users\User\Desktop\Test\Telnet\bin\Debug\net5.0\SimpleServer.runtimeconfig.json
+C:\Users\User\Desktop\Test\Telnet\bin\Debug\net5.0\SimpleServer.runtimeconfig.dev.json
+C:\Users\User\Desktop\Test\Telnet\bin\Debug\net5.0\SimpleServer.dll
+C:\Users\User\Desktop\Test\Telnet\bin\Debug\net5.0\SimpleServer.pdb
+C:\Users\User\Desktop\Test\Telnet\obj\Debug\net5.0\SimpleServer.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Test\Telnet\obj\Debug\net5.0\SimpleServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Test\Telnet\obj\Debug\net5.0\SimpleServer.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Test\Telnet\obj\Debug\net5.0\SimpleServer.AssemblyInfo.cs
+C:\Users\User\Desktop\Test\Telnet\obj\Debug\net5.0\SimpleServer.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Test\Telnet\obj\Debug\net5.0\SimpleServer.dll
+C:\Users\User\Desktop\Test\Telnet\obj\Debug\net5.0\refint\SimpleServer.dll
+C:\Users\User\Desktop\Test\Telnet\obj\Debug\net5.0\SimpleServer.pdb
+C:\Users\User\Desktop\Test\Telnet\obj\Debug\net5.0\SimpleServer.genruntimeconfig.cache
+C:\Users\User\Desktop\Test\Telnet\obj\Debug\net5.0\ref\SimpleServer.dll
